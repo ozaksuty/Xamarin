@@ -1,0 +1,6 @@
+Layout/crouton.axml;layout/crouton.xml
+Values/Strings.xml;values/strings.xml
+Drawable/error.png;drawable/error.png
+Drawable/info.png;drawable/info.png
+Drawable/success.png;drawable/success.png
+Drawable/warning.png;drawable/warning.png

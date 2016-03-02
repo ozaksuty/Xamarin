@@ -1,0 +1,13 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Meetup2016.WinPhone" EntryPointType="Meetup2016.WinPhone.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Meetup2016.WinPhone" Source="Meetup2016.WinPhone.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="Toasts.Forms.Plugin.Abstractions" Source="Toasts.Forms.Plugin.Abstractions.dll" />
+    <AssemblyPart x:Name="Toasts.Forms.Plugin.WindowsPhone" Source="Toasts.Forms.Plugin.WindowsPhone.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Core" Source="Xamarin.Forms.Core.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Platform.WP8" Source="Xamarin.Forms.Platform.WP8.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Xaml" Source="Xamarin.Forms.Xaml.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+  </Deployment.Parts>
+</Deployment>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Meetup2016.Views.Event">
+  <StackLayout>
+    <StackLayout Padding="20,10" Spacing="0" Orientation="Horizontal" HorizontalOptions="FillAndExpand" BackgroundColor="#455A64" >
+      <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+        <Label x:Name="txtTitle" TextColor="#fff" FontSize="24" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"></Label>
+      </StackLayout>
+    </StackLayout>
+    <ListView x:Name="lvEvents" HasUnevenRows="True" BackgroundColor="#455A64">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <StackLayout Padding="20,10" Spacing="0" Orientation="Horizontal" HorizontalOptions="Fill" BackgroundColor="#CFD8DC">
+              <StackLayout HorizontalOptions="StartAndExpand">
+                <Label Text="{Binding Title}" TextColor="#455A64" FontSize="14" FontAttributes="Bold" YAlign="Center" HorizontalOptions="StartAndExpand"></Label>
+                <StackLayout Orientation="Horizontal">
+                  <Label Text="{Binding Date}" TextColor="#455A64" FontSize="12" FontAttributes="Italic" YAlign="Center" HorizontalOptions="StartAndExpand"></Label>
+                </StackLayout>
+              </StackLayout>
+            </StackLayout>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+</ContentPage>

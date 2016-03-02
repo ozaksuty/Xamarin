@@ -1,0 +1,81 @@
+﻿[
+    {"EventTitle": "Haziran 2015","EventItems": [
+        { "Date": "13 Haziran 2015", "Title": "BNP Paribas International Hackathon (TEB Formasyon Merkezi – İstanbul)" }
+    ]},
+    {"EventTitle": "Mayıs 2015","EventItems": [
+        { "Date": "29 Mayıs 2015", "Title": "Road to the Cloud (Bulut Bilişime Giden Yol) (Microsoft Türkiye – İstanbul)" },
+        { "Date": "24 Mayıs 2015", "Title": "Windows 10 GameJam (Bahçeşehir Üniversitesi – İstanbul)" },
+        { "Date": "23 Mayıs 2015", "Title": "Windows 10 GameJam (Bahçeşehir Üniversitesi – İstanbul)" },
+        { "Date": "16 Mayıs 2015", "Title": "Windows 10 Universal App Yenilikleri (Onsekiz Mart Üniversitesi – Çanakkale)" },
+        { "Date": "15 Mayıs 2015", "Title": "Windows 10 Universal App Yenilikleri (Onsekiz Mart Üniversitesi – Çanakkale)" },
+        { "Date": "07 Mayıs 2015", "Title": "Windows 10 Universal App Yenilikleri (Osmangazi Üniversitesi – Eskişehir)" }
+    ]},
+    {"EventTitle": "Nisan 2015","EventItems":[
+        { "Date": "26 Nisan 2015", "Title": "Html, Css ve jQuery Eğitimleri (AçıkAkademi, Microsoft Türkiye)" },
+        { "Date": "15 Nisan 2015", "Title": "DevToWin, Windows 10 ve Universal App Yenilikleri (ODTÜ Atom – Ankara)" },
+        { "Date": "14 Nisan 2015", "Title": "DevToWin, Windows 10 ve Universal App Yenilikleri (ODTÜ Atom – Ankara)" },
+        { "Date": "13 Nisan 2015", "Title": "DevToWin, Windows 10 ve Universal App Yenilikleri (ODTÜ Atom – Ankara)" },
+        { "Date": "11 Nisan 2015", "Title": "Windows 10 ve Universal App Yenilikleri (İstanbul Aydın Üniversitesi – İstanbul)" },
+        { "Date": "06 Nisan 2015", "Title": "Yazılım Geliştiriciler için Windows 10 Yenilikleri (Okan Üniversitesi – İstanbul)" }
+    ]},
+    {"EventTitle": "Mart 2015","EventItems": [
+        { "Date": "28 Mart 2015", "Title": "Universal App ile Uygulama Geliştirme (Fatih Sultan Mehmet Üniversitesi – İstanbul)" },
+        { "Date": "26 Mart 2015", "Title": "Evrensel Bulut ve Evrensel Uygulama Web Yayınları (Microsoft Türkiye – İstanbul)" }
+    ]},
+    {"EventTitle": "Şubat 2015","EventItems": [
+        { "Date": "21 Şubat 2015", "Title": "MSP KickOff, Universal App Development (Microsoft Türkiye – İstanbul)" },
+        { "Date": "19 Şubat 2015", "Title": "Porting to Universal App (2) (AçıkAkademi Webiner)" },
+        { "Date": "05 Şubat 2015", "Title": "Porting to Universal App (1) (AçıkAkademi Webiner)" }
+    ]},
+    {"EventTitle": "Ocak 2015","EventItems": [
+        { "Date": "25 Ocak 2015", "Title": "Global Game Jam Juri (Ekonomi Üniversitesi – İzmir)" },
+        { "Date": "24 Ocak 2015", "Title": "Global Game Jam Juri (Ekonomi Üniversitesi – İzmir)" },
+        { "Date": "23 Ocak 2015", "Title": "Global Game Jam Juri (Ekonomi Üniversitesi – İzmir)" },
+        { "Date": "17 Ocak 2015", "Title": "Windows 8, Windows Phone, Microsoft Azure (BilgeAdam Fulya – İstanbul)" }
+    ]},
+    {"EventTitle": "Aralık 2014","EventItems": [
+        { "Date": "13 Aralık 2014", "Title": "MSTech, Universal App Uygulama Geliştirme (Osmangazi Üniversitesi – Eskişehir)" },
+        { "Date": "06 Aralık 2014", "Title": "Universal App Uygulama Geliştirme Yenilikleri (Bilkent Üniversitesi – Ankara)" },
+        { "Date": "02 Aralık 2014", "Title": "Visual Studio Connect Recap (Microsoft Türkiye – İstanbul)" }
+    ]},
+    {"EventTitle": "Kasım 2014","EventItems": [
+        { "Date": "12 Kasım 2014", "Title": "Azure Destekli Universal App (Turkcell Teknoloji Zirvesi – İstanbul)" }
+    ]},
+    {"EventTitle": "Ekim 2014","EventItems": [
+        { "Date": "17 Ekim 2014", "Title": "MSP KickOff, Universal App Development (Microsoft Türkiye – İstanbul)" }
+    ]},
+    {"EventTitle": "Ağustos 2014","EventItems": [
+        { "Date": "22 Ağustos 2014", "Title": "Universal App Development (Microsoft Yaz Okulu – İstanbul)" },
+        { "Date": "21 Ağustos 2014", "Title": "Universal App Development (Microsoft Yaz Okulu – İstanbul)" },
+        { "Date": "20 Ağustos 2014", "Title": "Universal App Development (Microsoft Yaz Okulu – İstanbul)" },
+        { "Date": "19 Ağustos 2014", "Title": "Universal App Development (Microsoft Yaz Okulu – İstanbul)" }
+    ]},
+    {"EventTitle": "Mayıs 2014","EventItems": [
+        { "Date": "25 Mayıs 2014", "Title": "Student App Fest, Windows Phone 8.1 Development (Bilgi Üniversitesi – İstanbul)" },
+        { "Date": "24 Mayıs 2014", "Title": "Windows Phone 8.1 Development (Bahçeşehir Üniversitesi – İstanbul)" },
+        { "Date": "23 Mayıs 2014", "Title": "Windows Phone 8.1 Development (Bahçeşehir Üniversitesi – İstanbul)" },
+        { "Date": "03 Mayıs 2014", "Title": "Windows Phone 8.1 Geliştirmeye Başlangıç (Pamukkale Üniversitesi – Denizli)" }
+    ]},
+    {"EventTitle": "Nisan 2014","EventItems": [
+        { "Date": "19 Nisan 2014", "Title": "Windows Phone 8.1 Geliştirmeye Başlangıç (Osmangazi Üniversitesi – Eskişehir)" },
+        { "Date": "18 Nisan 2014", "Title": "Windows Phone 8 Development (BilgeAdam Kozyatağı – İstanbul)" },
+        { "Date": "17 Nisan 2014", "Title": "Windows Phone 8 Development (BilgeAdam Kozyatağı – İstanbul)" }
+    ]},
+    {"EventTitle": "Mart 2014","EventItems": [
+        { "Date": "22 Mart 2014", "Title": "Windows Phone 8 Uygulama Geliştirme (İstanbul Üniversitesi)" },
+        { "Date": "13 Mart 2014", "Title": "Imagine Cup Phone Games Final Juri (Microsoft Türkiye – İstanbul)" },
+        { "Date": "04 Mart 2014", "Title": "Windows 8 (Devlet Kurumları – Ankara)" },
+        { "Date": "03 Mart  2014", "Title": "Windows 8 (Devlet Kurumları – Ankara)" }
+    ]},
+    {"EventTitle": "Şubat 2014","EventItems": [
+        { "Date": "23 Şubat 2014", "Title": "MSP KickOff, Windows Phone 8 (Microsoft Türkiye – İstanbul)" },
+        { "Date": "12 Şubat 2014", "Title": "Windows 8 (BilgeAdam Fulya – İstanbul)" },
+        { "Date": "11 Şubat 2014", "Title": "Windows 8 (BilgeAdam Fulya – İstanbul)" }
+    ]},
+    {"EventTitle": "Ocak 2014","EventItems": [
+        { "Date": "26 Ocak 2014", "Title": "Global Game Jam Juri (Ekonomi Üniversitesi – İzmir)" },
+        { "Date": "25 Ocak 2014", "Title": "Global Game Jam Juri (Ekonomi Üniversitesi – İzmir)" },
+        { "Date": "24 Ocak 2014", "Title": "Global Game Jam Juri (Ekonomi Üniversitesi – İzmir)" },
+        { "Date": "15 Ocak 2014", "Title": "Windows Phone 8 (AçıkAkademi Webiner)" }
+    ]},
+]
